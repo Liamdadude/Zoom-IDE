@@ -4,3 +4,9 @@ body{
   font-family: 'Alata', sans-serif;
 
 }
+#title{
+  color:navy;
+}
+*{
+  background:blue;
+}
