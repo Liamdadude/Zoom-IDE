@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+body{
+  font-family: 'Alata', sans-serif;
+
+}
+#title{
+  color:navy;
+}
+*{
+  background:blue;
+}
